@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as Body } from './Body';","map":{"version":3,"sources":["/Users/Pia/Desktop/mongo/scroll_test/components/index.js"],"names":["default","Body"],"mappings":"AAAA,SAASA,OAAO,IAAIC,IAApB,QAAgC,QAAhC","sourcesContent":["export { default as Body } from './Body'\n"]},"metadata":{},"sourceType":"module"}
